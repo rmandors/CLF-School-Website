@@ -1,0 +1,2 @@
+All rights reserved.
+This project and its source code may not be copied, modified, distributed, or used without explicit permission from the author.
